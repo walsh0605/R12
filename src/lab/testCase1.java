@@ -4,7 +4,7 @@ package lab;
 //FILENAME: Lab1.java
 //SPECIFICATION: THIS PROGRAM WILL READ THREE TEST GRADES AND THEN CALCULATE THE AVERAGE AND PRINT IT OUT.
 //FOR: CS 1400- Lab #1
-//TIME SPENT: 3 HOURS
+//TIME SPENT:
 
 import java.util.Scanner;
 public class testCase1{
