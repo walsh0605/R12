@@ -1,7 +1,7 @@
 package lab;
 
 //AUTHOR: KRISTOPHER WALSH
-//FILENAME: lab1.1
+//FILENAME: Lab1.java
 //SPECIFICATION: THIS PROGRAM WILL READ THREE TEST GRADES AND THEN CALCULATE THE AVERAGE AND PRINT IT OUT.
 //FOR: CS 1400- Lab #1
 //TIME SPENT: 3 HOURS
@@ -21,7 +21,7 @@ public class testCase1{
 		System.out.print("Enter the third number: ");
 		double num3 = scan.nextDouble();
 		scan.close();
-		System.out.print("The average of entered number is:" + avr(num1, num2, num3) );
+		System.out.print("Your average test score is: " + avr(num1, num2, num3) );
 		
 	}
 	
